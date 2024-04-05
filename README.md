@@ -3,18 +3,18 @@ Developed a robust user management system utilizing the MERN stack (MongoDB, Exp
 to create a comprehensive web application. The system includes user authentication, profile management, and administrative features.
 
 #### Key Features:
-User Authentication
-Profile Management
-Admin Panel
-Form Validation:
-Responsive Design:
+User Authentication<br>
+Profile Management<br>
+Admin Panel<br>
+Form Validation:<br>
+Responsive Design:<br>
 
 #### Technologies Used:
-Frontend: React.js
-Backend: Node.js, Express.js
-Database: MongoDB
-Authentication: nodemailer google smtp
-Deployment: Deployed the application on a local server.
+Frontend: React.js<br>
+Backend: Node.js, Express.js<br>
+Database: MongoDB<br>
+Authentication: nodemailer google smtp<br>
+Deployment: Deployed the application on a local server.<br>
 
 
 ## Installation
