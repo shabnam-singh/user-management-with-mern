@@ -51,12 +51,12 @@ Deployment: Deployed the application on a local server.
 
 
 ## .env File configuration
-PORT=5001
-CONNECTION_STRING="connection string of mongodb "
-SMTP_HOST="gmail"
-SMTP_USER="useremail"
-SMTP_PASSWORD="App password"
-EMAIL_URL="http://localhost:"
+PORT=5001 <br>
+CONNECTION_STRING="connection string of mongodb "<br>
+SMTP_HOST="gmail"<br>
+SMTP_USER="useremail"<br>
+SMTP_PASSWORD="App password"<br>
+EMAIL_URL="http://localhost:"<br>
 
 NOTE : only change CONNECTION_STRING, SMTP_HOST, SMTP_USER, SMTP_PASSWORD
 
@@ -64,6 +64,6 @@ NOTE : only change CONNECTION_STRING, SMTP_HOST, SMTP_USER, SMTP_PASSWORD
 Now Start Backend and frontend
 
 ```bash
-cd frontend
+npm start
 ```
 From both frontend and backend 
