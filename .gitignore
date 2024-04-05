@@ -1,8 +1,3 @@
-/Frontend Data/node_modules
+/frontend/node_modules
 node_modules
-myBackend/node_modules
-myBackend/.env
-.env
-
-
-
+backend/node_modules
